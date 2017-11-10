@@ -1,0 +1,23 @@
+{
+  "name": "imemfs",
+  "version": "1.0.3",
+  "description": "Virtual filesystem",
+  "main": "imemfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "system",
+    "filesystem",
+    "virtual",
+    "object",
+    "json"
+  ],
+  "author": "Cryogena (original by: Sokra)",
+  "license": "MIT",
+  "dependencies": {
+    "errno": "^0.1.4",
+    "readable-stream": "^2.3.3"
+  }
+}
